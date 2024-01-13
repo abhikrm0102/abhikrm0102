@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhinav Kumar Mishra (@abhikrm0102)
-- 👀 I’m interested in Web Development (specially Frontend Development)
+- 👀 I’m interested in Web Development (specially Frontend Development), Software Development using C++
 
 <!---
 abhikrm0102/abhikrm0102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
